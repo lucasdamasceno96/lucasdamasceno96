@@ -7,7 +7,7 @@
 
 
 
-Linkdin: https://www.linkedin.com/in/lucasdamasceno96/
+Linkedin: https://www.linkedin.com/in/lucasdamasceno96/
 
 
 <!---
