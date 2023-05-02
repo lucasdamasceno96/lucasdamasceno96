@@ -7,7 +7,7 @@
 - 📉 My english level is C1.
 - 👷🏿‍♂️ I'm open to collaborating on interesting projects
 - 📧 You can contact me at lucasdamasceno96@gmail.com.br
-- 🇧🇷 From Brazil
+- 🇧🇷 From Belo Horizonte, Brazil.
 
 
 
