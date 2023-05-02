@@ -1,4 +1,4 @@
--  <h2> 🖐🏿 Hi, I’m Lucas Damasceno</h2>
+-  <h1> 🖐🏿 Hi, I’m Lucas Damasceno</h1><h2> 
 - ✊🏿 Fullstack Dev Jr.
 - 💻 I'm currently studying Software Enginer in the Puc Minas university. 
 - 🕵🏽‍♂️ I'm Learning software development since january 2022.
@@ -6,12 +6,13 @@
 - 📔 I'm studying Angular, NodeJs, Spring Boot, NestJS, PostgreeSql, MongoDB
 - 📉 My english level is C1.
 - 👷🏿‍♂️ I'm open to collaborating on interesting projects
-- 📧 You can contact me at lucasdamasceno96@gmail.com.br
+- 📧 You can contact me at lucasdamascenopinto96@gmail.com.br
 - 🇧🇷 From Belo Horizonte, Brazil.
 
 
 
-Linkedin: https://www.linkedin.com/in/lucasdamasceno96/
+Linkedin: https://www.linkedin.com/in/lucasdamasceno96/ 
+  </h2>
 
 
 <!---
