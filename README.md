@@ -6,16 +6,13 @@
 - 📔 I'm studying Angular, NodeJs, Spring Boot, NestJS, PostgreeSql, MongoDB
 - 📉 My english level is C1.
 - 👷🏿‍♂️ I'm open to collaborating on interesting projects
-- 📧 You can contact me at lucasdamascenopinto96@gmail.com.br
+- 📧 You can contact me at lucasdamascenopinto96@gmail.com.br  <img src="https://img.shields.io/badge/
 - 🇧🇷 From Belo Horizonte, Brazil.
   
   [![lucasdamasceno](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdamasceno96&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-  <a href="lucasdamascenopinto96@hotmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucasdamascenopinto96@hotmail.com" /></a>
-
-  <a href="https://www.linkedin.com/in/lucasdamasceno96/" alt="Linkedin">
+   <a href="https://www.linkedin.com/in/lucasdamasceno96/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdamasceno96/" /></a>
 
   <a href="https://twitter.com/intent/follow?screen_name=script21k" alt="Twitter">
