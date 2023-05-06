@@ -6,7 +6,7 @@
 - 📔 I'm studying Angular, NextJs, NestJs, NodeJs, Spring Boot, PostgreeSql, Mysql, MongoDB, Docker.
 - 📉 My english level is C1.
 - 👷🏿‍♂️ I'm open to collaborating on interesting projects
-- 📧 You can contact me at lucasdamascenopinto96@gmail.com.br  <img src="https://img.shields.io/badge/
+- 📧 You can contact me at lucasdamascenopinto96@gmail.com.br  
 - 🇧🇷 From Belo Horizonte, Brazil.
   
   [![lucasdamasceno](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdamasceno96&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
