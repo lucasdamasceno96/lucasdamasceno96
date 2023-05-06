@@ -12,16 +12,16 @@
   [![lucasdamasceno](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdamasceno96&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="lucasdamascenopinto96@hotmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucasdamascenopinto96@hotmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lucasdamasceno96/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdamasceno96/" /></a>
 
-  <a href="#" alt="Twitter">
-  <img src="https://img.shields.io/twitter/follow/script21k?style=social=API-DO-SEU-WHATSAPP"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=script21k" alt="Twitter">
+  <img src="https://img.shields.io/twitter/follow/script21k?style=social="/></a>
 
-   <a href="#" alt="Instagram">
+   <a href="https://www.instagram.com/script21k/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/script21k/"/></a>
 </p>  
   </h2>
