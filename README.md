@@ -2,8 +2,8 @@
 - ✊🏿 Fullstack Dev Jr.
 - 💻 I'm currently studying Software Enginer in the Puc Minas university. 
 - 🕵🏽‍♂️ I'm Learning software development since january 2022.
-- ✊🏿 I'm know about Typescript, Java, Sql, NoSql, Html, Css.
-- 📔 I'm studying Angular, NextJs, NestJs, NodeJs, Spring Boot, PostgreeSql, Mysql, MongoDB, Docker.
+- ✊🏿 I'm know about Front-end e Back-end.
+- 📔 I'm studying Cloud, Networking, Docker, Kubernets, Terraform.
 - 📉 My english level is C1.
 - 👷🏿‍♂️ I'm open to collaborating on interesting projects
 - 📧 You can contact me at lucasdamascenopinto96@gmail.com.br  
