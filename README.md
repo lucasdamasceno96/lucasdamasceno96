@@ -1,9 +1,9 @@
 -  <h1> 🖐🏿 Hi, I’m Lucas Damasceno</h1><h2> 
-- ✊🏿 Fullstack Dev Jr.
+- ✊🏿 DevOps Jr.
 - 💻 I'm currently studying Software Enginer in the Puc Minas university. 
 - 🕵🏽‍♂️ I'm Learning software development since january 2022.
-- ✊🏿 I'm know about Front-end e Back-end.
-- 📔 I'm studying Cloud, Networking, Docker, Kubernets, Terraform.
+- ✊🏿 I'm know about Linux,Docker, Kubernetes.
+- 📔 I'm studying Cloud.
 - 📉 My english level is C1.
 - 👷🏿‍♂️ I'm open to collaborating on interesting projects
 - 📧 You can contact me at lucasdamascenopinto96@gmail.com.br  
