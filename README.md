@@ -2,7 +2,7 @@
 - ✊🏿 DevOps Jr.
 - 💻 I'm currently studying Software Enginer in the Puc Minas university. 
 - 🕵🏽‍♂️ I'm Learning software development since january 2022.
-- ✊🏿 I'm know about Linux,Docker, Kubernetes.
+- ✊🏿 I'm know about Linux,Docker, Kubernetes, Terraform.
 - 📔 I'm studying Cloud.
 - 📉 My english level is C1.
 - 👷🏿‍♂️ I'm open to collaborating on interesting projects
