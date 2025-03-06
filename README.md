@@ -10,12 +10,18 @@ I am a professional in Cloud and Software Development . I have knowledge in Dock
 ## 🎓 Education
 
 PUC Minas University - Degree in Analysis and Systems Development
-Alcance - MBA in Cloud Computing
+
+Alcance College - MBA in Cloud Computing
 
 ## 🌍 Languages
 
 - **English:** Advanced (C1) 🇬🇧
 - **Spanish:** Intermediate (B1) 🇪🇸
+
+## 🎖️ 📝 Cerfitications 
+
+- **Azure** AZ-900 
+- **AWS:**   Loading... 
 
 ## 🎯 Objectives
 
