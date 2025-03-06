@@ -1,15 +1,16 @@
 -  <h1> 🖐🏿 Hi, I’m Lucas Damasceno</h1><h2> 
-- ✊🏿 DevOps Jr.
+- ✊🏿 Cloud Engineer.
 - 📧 You can contact me at ldp21k@outlook.com 
 - 🇧🇷 From Brazil.
 
 ## 🌟 Technologies
 
-I am a professional in DevOps and Infrastructure. I have knowledge in Docker 🐳, Kubernetes ☸️, public and private cloud computing ☁️ (AWS, Azure), Infrastructure as Code (Terraform, Ansible) 🔧, Golang development 🚀, as well as solid knowledge in Linux 🐧 and networking 🌐.
+I am a professional in Cloud and Software Development . I have knowledge in Docker 🐳, Kubernetes ☸️, public and private cloud computing ☁️ (AWS, Azure), Infrastructure as Code (Terraform) 🔧, Golang and Typescript development 🚀, as well as solid knowledge in Linux 🐧 and networking 🌐.
 
 ## 🎓 Education
 
 PUC Minas University - Degree in Analysis and Systems Development
+Alcance - MBA in Cloud Computing
 
 ## 🌍 Languages
 
@@ -18,7 +19,7 @@ PUC Minas University - Degree in Analysis and Systems Development
 
 ## 🎯 Objectives
 
-My goals are to specialize and obtain certifications related to cloud computing ☁️ and cybersecurity 🔒, deepening my knowledge in these areas, as well as bringing solutions that generate value for companies 💡.
+My goals are to specialize and obtain certifications related to cloud computing ☁️ and software development, deepening my knowledge in these areas, as well as bringing solutions that generate value for companies 💡.
 
   
   [![lucasdamasceno](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdamasceno96&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
