@@ -1,5 +1,5 @@
 -  <h1> 🖐🏿 Hi, I’m Lucas Damasceno</h1><h2> 
-- ✊🏿 Cloud Engineer.
+- ✊🏿 Cloud Software Engineer.
 - 📧 You can contact me at ldp21k@outlook.com 
 - 🇧🇷 From Brazil.
 
