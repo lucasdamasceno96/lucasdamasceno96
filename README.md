@@ -20,8 +20,8 @@ Alcance College - MBA in Cloud Computing
 
 ## 🎖️ 📝 Cerfitications 
 
-- **Azure** AZ-900 
-- **AWS:**   Loading... 
+- **Azure** AZ-900 | SC-900 | AZ-104
+
 
 ## 🎯 Objectives
 
