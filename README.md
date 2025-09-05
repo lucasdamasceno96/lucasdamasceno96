@@ -9,9 +9,8 @@ I am a professional in Cloud and Software Development . I have knowledge in Dock
 
 ## 🎓 Education
 
-PUC Minas University - Degree in Analysis and Systems Development
 
-Alcance College - MBA in Cloud Computing
+Pursuing a Professional Master’s in Information Security at University of Brasília (2025–2026), with two postgraduate MBA in Statistics & Cloud Computer , and a Bachelor’s in IT and Systems Development(PUC Minas University).
 
 ## 🌍 Languages
 
