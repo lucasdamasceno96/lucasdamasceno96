@@ -5,7 +5,7 @@
 
 ## 🌟 Technologies
 
-I am a professional in Cloud and Software Development . I have knowledge in Docker 🐳, Kubernetes ☸️, public and private cloud computing ☁️ (AWS, Azure), Infrastructure as Code (Terraform) 🔧, Python and Golang development 🚀, as well as solid knowledge in Linux 🐧 and networking 🌐.
+I am a professional in Cloud and Software Development . I have knowledge in Docker 🐳, Kubernetes ☸️, public and private cloud computing ☁️ (AWS, Azure, GCP), Infrastructure as Code (Terraform) 🔧, Python and Golang development 🚀, as well as solid knowledge in Linux 🐧 and networking 🌐.
 
 ## 🎓 Education
 
