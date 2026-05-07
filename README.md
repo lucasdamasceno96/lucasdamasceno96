@@ -34,7 +34,7 @@ My goals are to specialize and obtain certifications related to cloud computing 
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasdamasceno96/" /></a>
 
   <a href="https://twitter.com/intent/follow?screen_name=script21k" alt="Twitter">
-  <img src="https://img.shields.io/twitter/follow/script21k?style=social="/></a>
+  <img src="https://img.shields.io/twitter/follow/21ktech?style=social="/></a>
 
    <a href="https://www.instagram.com/script21k/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/script21k/"/></a>
