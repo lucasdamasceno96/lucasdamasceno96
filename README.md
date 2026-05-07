@@ -26,8 +26,6 @@ Pursuing a Professional Master’s in Information Security at University of Bras
 
 My goals are to specialize and obtain certifications related to cloud computing ☁️ and software development, deepening my knowledge in these areas, as well as bringing solutions that generate value for companies 💡.
 
-  
-  [![lucasdamasceno](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdamasceno96&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
    <a href="https://www.linkedin.com/in/lucasdamasceno96/" alt="Linkedin">
