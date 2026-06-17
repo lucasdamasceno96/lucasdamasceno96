@@ -20,6 +20,7 @@ Pursuing a Professional Master’s in Information Security at University of Bras
 ## 🎖️ 📝 Cerfitications 
 
 - **Azure** AZ-900 | SC-900 | AZ-104
+- **Google** Associate Cloud Engineer
 
 
 ## 🎯 Objectives
